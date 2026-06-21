@@ -16,11 +16,11 @@ Here are some of my top frontend web applications that I have developed and depl
 
 - 🛍️ **Shopping with Abdullah** — A modern, fully functional e-commerce shopping web application built with React, focusing on smooth state management and user experience.
   - 🔗 [Live Preview](https://shopping-with-abdullah.vercel.app)
-  - 📂 [Source Code](https://github.com/Abdullah-developer-tech/shopping-with-abdullah)
+  
 
 - 👕 **Clothing Store Website** — A beautiful, highly responsive, and interactive frontend interface for an online clothing retail store.
   - 🔗 [Live Preview](https://stylecraft-theta.vercel.app/) *(Note: Agar aap ka exact live link mukhtalif ho to aap use yahan replace kar sakte hain)*
-  - 📂 [Source Code](https://github.com/Abdullah-developer-tech/clothing-store)
+  
 
 ---
 
